@@ -1,2 +1,2 @@
-# jokenpo_tbbt
-2 Aula da imersão dev da alura. Desenvolvemos um pequeno jogo de jokenpo
+# Jokenpô - The Big Bang Theory
+Segunda aula da imersão dev da alura. Desenvolvemos um pequeno jogo de jokenpô
